@@ -1,4 +1,4 @@
-* http://brm.io/matter-js/
+/* http://brm.io/matter-js/
 * License MIT
 */
 
